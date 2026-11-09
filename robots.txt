@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://instec.eng.br/sitemap.xml
